@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ArifmCode:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ArifmCode_jar</output-path>
+    <root id="archive" name="ArifmCode.jar">
+      <element id="module-output" name="ArifmCode" />
+    </root>
+  </artifact>
+</component>
